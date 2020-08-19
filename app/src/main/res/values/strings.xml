@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Logins</string>
-    <string name="facebook_app_id">694827464464678</string>
-    <string name="fb_login_protocol_scheme">fb694827464464678</string>
-    <string name="com.twitter.sdk.android.CONSUMER_KEY">uyaRiULu5rnwNogUnMCnkjy7b</string>
-    <string name="com.twitter.sdk.android.CONSUMER_SECRET">dlPCsrtDmjK4Ae9ZMxUrHoCwq879a9fcyVTgtG12M4WWSZJAvR</string>
+    <string name="facebook_app_id">Your app id</string>
+    <string name="fb_login_protocol_scheme">Your app id</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">Your Consumer Key</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">Your Secret Key</string>
 
 </resources>
